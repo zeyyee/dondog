@@ -1,3 +1,5 @@
+https://dondog-pi.vercel.app/
+
 #실제로 동작하게 만든 것 
 
 Next.js 기반 동아리/학생회 회계 대시보드입니다. 실제 결제내역을 Supabase(Postgres)에 저장하고
